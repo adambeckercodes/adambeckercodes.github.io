@@ -691,6 +691,11 @@
     max-height: 30px;
   }
 
+  .ac .ac-panel .ac-text {
+    font-size: 12px;
+    line-height: 26px;
+}
+
   .footer {
     padding-top: 33px;
   }
